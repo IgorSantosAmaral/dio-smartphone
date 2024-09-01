@@ -1,4 +1,4 @@
-# [DIO](www.dio.me) - Trilha Java Básico
+# [DIO](https://www.dio.me) - Trilha Java Básico
 
 ## Autores
 - [Gleyson Sampaio](https://github.com/glysns)
